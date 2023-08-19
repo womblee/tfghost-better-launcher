@@ -15,6 +15,8 @@ Also disables 'CPU0' automatically for 30% increase in performance.
 
 ![image](https://github.com/womblee/tfghost-better-launcher/assets/52250786/25d79892-1d36-4e72-9b73-f09280af9c20)
 
+**5.** Run 'launcher.ps1' via right clicking it and pressing 'Run with PowerShell'.
+
 - If you have any errors, the program will tell you.
 
 **Must know:** The script automatically sets the affinity of the game in 15 seconds after launching everything, if this is not enough for you and your game opens up slowly:

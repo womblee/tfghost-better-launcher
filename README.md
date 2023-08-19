@@ -1,8 +1,8 @@
 # Better TFGhost Launcher
-This is a PowerShell script which makes the launch of TFGhost more stable &amp; better
+This is a PowerShell script which makes the launch of TFGhost more stable &amp; better.
 
 # Bonus
-Also disables CPU0 automatically for 30% increase in performance
+Also disables 'CPU0' automatically for 30% increase in performance.
 
 # How to use
 **1.** Open 'launcher.ps1' in any text editor.

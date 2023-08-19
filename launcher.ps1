@@ -84,8 +84,8 @@ Start-Sleep -Seconds 1;
 $executablePath = Join-Path -Path $ghostPath -ChildPath "$ghostExecName.exe"
 Start-Process -FilePath $executablePath
 
-# Wait for Steam login and TF2, 15 seconds should be an ideal time amount
-Start-Sleep -Seconds $waitTimeBeforeTFOpens;
+# Wait for Steam login and Game, 15 seconds should be an ideal time amount
+Start-Sleep -Seconds $waitTimeBeforeGameOpens;
 
 # Define the process name or ID
 $processName = "hl2"  # Common for most Source games, Team Fortress 2 uses it
